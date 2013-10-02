@@ -7,8 +7,6 @@ from lettuce import *
 from lettuce import step
 from commons import Commons
 
-
-
 GEOCODE_BASE_URL = 'http://maps.googleapis.com/maps/api/geocode/json?'
 
 

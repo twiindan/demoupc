@@ -10,7 +10,7 @@ Feature: Geoencoding
 
         Examples:
             |   city            |   country_code    |
-            |   Barcelona       |   CAT             |
+            |   Barcelona       |   ES              |
             |   Paris           |   FR              |
             |   San+Francisco   |   US              |
 
