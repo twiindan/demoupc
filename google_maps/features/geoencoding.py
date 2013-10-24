@@ -59,4 +59,4 @@ def assert_zero_results(step, message):
 
 @step('I obtain an (.*)')
 def assert_error(step, error_code):
-    world.r.status_code == error_code
+    assert world.r.status_code == error_code
